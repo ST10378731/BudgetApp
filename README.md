@@ -35,7 +35,7 @@ The **Budget Tracker** is a Kotlin-based Android application designed to help us
 
 ## 📦 Project Structure
 
-```bash
+
 BudgetTracker/
 ├── app/
 │   ├── src/
