@@ -1,4 +1,4 @@
-# 📊 Budget Tracker App
+# 📊 Budget  App
 
 The **Budget Tracker** is a Kotlin-based Android application designed to help users manage their personal finances efficiently. It allows users to record expenses, categorize them, attach receipts, and set monthly spending goals — all while offering an intuitive and user-friendly experience.
 
@@ -46,3 +46,6 @@ BudgetTracker/
 │   ├── build.gradle.kts
 ├── build.gradle.kts
 └── settings.gradle.kts
+
+POE now available
+
